@@ -1,4 +1,4 @@
-# Harry Poitter English Language Learning Assistant using Llama 3 and RAG
+# Harry Potter English Language Learning Assistant using Llama 3 and RAG
 Harry Potter Chatbot using Llama 3 and RAG for English Language Learning
 
 The entire implementation is included in the Jupyter Notebook. 
